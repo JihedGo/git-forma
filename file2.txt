@@ -1,2 +1,3 @@
 this is file2.txt
 this line was added from local git repo
+we use again github editor for change content of this file
